@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/pink">
+
+
+    <ImageView
+        android:id="@+id/resim1"
+        android:layout_width="186dp"
+        android:layout_height="182dp"
+        android:layout_marginHorizontal="120dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/writing" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="48dp"
+        android:layout_marginTop="265dp"
+        android:text="We are what we do"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginTop="335dp"
+        android:text="Thousand of people are using Dyslex
+for effective activites"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/çizgi"
+        app:srcCompat="@drawable/line"
+        android:layout_marginTop="400dp"/>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="51dp"
+        android:layout_marginTop="435dp"
+        android:background="@drawable/roundstyle"
+        android:backgroundTint="@color/purple"
+        android:gravity="center"
+        android:onClick="signup"
+        android:text="SIGN UP"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+    <TextView
+
+        android:id="@+id/text4"
+        android:layout_width="227dp"
+        android:layout_height="21dp"
+        android:text="ALREADY HAVE AN ACCOUNT"
+        android:textColor="@color/black"
+        android:layout_marginTop="510dp"
+        android:textSize="14dp"
+        android:gravity="center"
+        android:layout_marginHorizontal="51dp"
+        />-
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="74dp"
+        android:layout_height="28dp"
+        android:layout_marginHorizontal="260dp"
+        android:layout_marginTop="505dp"
+        android:gravity="center"
+        android:onClick="login"
+        android:text="Log In"
+        android:textColor="@color/black"
+        android:textSize="20dp" />
+</RelativeLayout>
