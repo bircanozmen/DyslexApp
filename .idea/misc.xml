@@ -4,8 +4,31 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/drawable/roundstyle.xml" value="0.2265" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_analog_clock_question1.xml" value="0.2" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_backward_number_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_change_password1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_clock_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_days_info1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_days_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_digital_clock_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_direction_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_directions_info1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_false_answer1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_image_question1.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_log_in_page.xml" value="0.2" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_look_at_number1.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_months_info1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_months_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_multiplication_info1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_multiplication_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_number_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_reset_link1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_season_info1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_season_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_sign_up1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_spelling_question1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_true_answer1.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/activity_welcome_page.xml" value="0.25" />
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/fragment_analog_clock_question.xml" value="0.2" />
         <entry key="..\:/Users/180201807/AndroidStudioProjects/dyslexApp/app/src/main/res/layout/fragment_backward_number_question.xml" value="0.24010416666666667" />

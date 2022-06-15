@@ -23,6 +23,5 @@ public class LogInPage extends AppCompatActivity {
             startActivity(intent);
         mail =(EditText) findViewById(R.id.mailgir);
         password = (EditText)findViewById(R.id.password);
-
     }
 }

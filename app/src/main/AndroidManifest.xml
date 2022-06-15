@@ -14,6 +14,75 @@
         android:theme="@style/Theme.DyslexApp"
         tools:targetApi="31">
         <activity
+            android:name=".SignUp1"
+            android:exported="false" />
+        <activity
+            android:name=".TrueAnswer1"
+            android:exported="false" />
+        <activity
+            android:name=".SpellingQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".SeasonQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".SeasonInfo1"
+            android:exported="false" />
+        <activity
+            android:name=".ResetLink1"
+            android:exported="false" />
+        <activity
+            android:name=".NumberQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".MultiplicationQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".MultiplicationInfo1"
+            android:exported="false" />
+        <activity
+            android:name=".MonthsQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".MonthsInfo1"
+            android:exported="false" />
+        <activity
+            android:name=".LookAtNumber1"
+            android:exported="false" />
+        <activity
+            android:name=".ImageQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".FalseAnswer1"
+            android:exported="false" />
+        <activity
+            android:name=".DirectionQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".DirectionsInfo1"
+            android:exported="false" />
+        <activity
+            android:name=".DigitalClockQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".DaysQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".DaysInfo1"
+            android:exported="false" />
+        <activity
+            android:name=".ClockQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".ChangePassword1"
+            android:exported="false" />
+        <activity
+            android:name=".BackwardNumberQuestion1"
+            android:exported="false" />
+        <activity
+            android:name=".AnalogClockQuestion1"
+            android:exported="false" />
+        <activity
             android:name=".Welcome_Page"
             android:exported="false" />
         <activity

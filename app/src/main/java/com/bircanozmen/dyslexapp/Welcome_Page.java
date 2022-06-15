@@ -11,19 +11,16 @@ import android.view.View;
 import android.widget.TextView;
 
 public class Welcome_Page extends AppCompatActivity {
-    TextView text3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome_page);
 
-        text3=findViewById(R.id.text3);
     }
     public void getstarted (View view){
-        FragmentManager fragmentManager = getSupportFragmentManager();
-        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+        Intent intent = new Intent(Welcome_Page.this,ClockQuestion1.class);
+        startActivity(intent);
 
-        ClockQuestion clockQuestion = new ClockQuestion();
-        fragmentTransaction.add(R.id.frame_layout,clockQuestion).commit();
-}}
+    }
+}

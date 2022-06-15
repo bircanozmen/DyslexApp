@@ -5,8 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:background="@color/pink">
+    android:background="@color/pink"
+    tools:context=".MainActivity">
 
 
     <ImageView
@@ -74,7 +74,7 @@ for effective activites"
         android:textSize="14dp"
         android:gravity="center"
         android:layout_marginHorizontal="51dp"
-        />-
+        />
 
     <TextView
         android:id="@+id/text5"
@@ -87,4 +87,6 @@ for effective activites"
         android:text="Log In"
         android:textColor="@color/black"
         android:textSize="20dp" />
+
+
 </RelativeLayout>
