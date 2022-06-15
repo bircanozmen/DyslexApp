@@ -19,7 +19,7 @@ public class Welcome_Page extends AppCompatActivity {
 
     }
     public void getstarted (View view){
-        Intent intent = new Intent(Welcome_Page.this,ClockQuestion1.class);
+        Intent intent = new Intent(Welcome_Page.this,TopicPage.class);
         startActivity(intent);
 
     }
