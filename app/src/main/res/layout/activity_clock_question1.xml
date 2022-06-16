@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClockQuestion"
+    android:background="@color/pink">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="90dp"
+        android:onClick="analog"
+        android:src="@drawable/preferanalog" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="300dp"
+        android:onClick="digital"
+        android:src="@drawable/preferdigital" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/roundstyle"
+        android:backgroundTint="@color/purple"
+        android:gravity="center"
+        android:text="WHICH ONE DO YOU PREFER?"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SeasonQuestion"
+    android:background="@color/pink">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/dayquestion" />
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="30dp"
+        android:text="A) Friday"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:onClick="a"/>
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text1"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="30dp"
+        android:text="B) Sunday"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:onClick="b"/>
+
+
+
+</RelativeLayout>
